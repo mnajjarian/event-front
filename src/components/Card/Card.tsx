@@ -18,7 +18,7 @@ export function Card(props: Props): JSX.Element {
             <Styled.Link href="#" aria-label="link">
               <Styled.CardImage>
                 <Styled.ImageHolder />
-                {description?.images && <Styled.Image src={description.images[0].url} alt="image" />}
+                {description.images && <Styled.Image src={description.images[0].url} alt="event" />}
               </Styled.CardImage>
             </Styled.Link>
           </Styled.CardMedia>
@@ -26,7 +26,7 @@ export function Card(props: Props): JSX.Element {
             <Styled.CardBodyContent>
               <Styled.CardTime>{formatDate(event_dates.starting_day)}</Styled.CardTime>
               <Styled.Link href="#">
-                <Styled.CardTitle>{name?.fi}</Styled.CardTitle>
+                <Styled.CardTitle>{name.fi}</Styled.CardTitle>
               </Styled.Link>
             </Styled.CardBodyContent>
           </Styled.CardBody>
