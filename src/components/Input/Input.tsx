@@ -9,5 +9,13 @@ type Props = {
 export function Input(props: Props): JSX.Element {
   const { placeholder, handleChange, value } = props
 
-  return <Styled.Input value={value} onChange={handleChange} placeholder={placeholder} />
+  return (
+    <Styled.Input
+      type="text"
+      data-testid="test-input"
+      value={value}
+      onChange={handleChange}
+      placeholder={placeholder}
+    />
+  )
 }
