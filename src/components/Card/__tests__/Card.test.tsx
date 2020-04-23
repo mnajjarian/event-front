@@ -6,6 +6,7 @@ import { formatDate } from '../../../helpers'
 
 const event = db.data[0]
 const setup = (): RenderResult => render(<Card event={event} />)
+
 describe('Testing Card component', () => {
   const { container } = setup()
   it('Should be defined', () => {
