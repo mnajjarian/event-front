@@ -1,5 +1,5 @@
-import { loader } from "graphql.macro";
+import { loader } from 'graphql.macro'
 
-const GET_EVENTS = loader("./getEvents.graphql");
+const GET_EVENTS = loader('./getEvents.graphql')
 
-export { GET_EVENTS };
+export { GET_EVENTS }
