@@ -8,14 +8,14 @@ type Props = {
 }
 
 export function Card(props: Props): JSX.Element {
-  const { name, description, event_dates } = props.event
+  const { id, name, description, event_dates } = props.event
 
   return (
     <Styled.CardWrapper>
       <Styled.Card>
         <Styled.CardContent>
           <Styled.CardMedia>
-            <Styled.Link href="#" aria-label="link">
+            <Styled.Link href={`/e/${id}`} aria-label="link">
               <Styled.CardImage>
                 <Styled.ImageHolder />
                 {description.images && <Styled.Image src={description.images[0].url} alt="event" />}
@@ -25,7 +25,7 @@ export function Card(props: Props): JSX.Element {
           <Styled.CardBody>
             <Styled.CardBodyContent>
               <Styled.CardTime>{formatDate(event_dates.starting_day)}</Styled.CardTime>
-              <Styled.Link href="#">
+              <Styled.Link href={`/e/${id}`}>
                 <Styled.CardTitle>{name.fi}</Styled.CardTitle>
               </Styled.Link>
             </Styled.CardBodyContent>

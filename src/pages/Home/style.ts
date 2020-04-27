@@ -6,5 +6,5 @@ const Event = styled.div`
   height: 100%;
   width: 100%;
 `
-
-export const Styled = { Event }
+const Container = styled.div``
+export const Styled = { Container, Event }

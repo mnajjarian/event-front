@@ -8,8 +8,8 @@ export default {
 }
 
 const event: EventInterface = db.data[0]
-export const EventCard = (): JSX.Element => <Card event={event} />
+export const card = (): JSX.Element => <Card event={event} />
 
-EventCard.story = {
-  name: 'Event Card',
+card.story = {
+  name: 'default',
 }

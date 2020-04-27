@@ -13,8 +13,6 @@ type Props = {
 export function Home(props: Props): JSX.Element {
   const { data, loading } = useQuery(GET_EVENTS)
 
-  const { offset, limit } = props
-
   if (loading) {
     return <div>...Loading</div>
   }
@@ -22,15 +20,17 @@ export function Home(props: Props): JSX.Element {
     return <div>Error.</div>
   }
 
+  const { offset, limit } = props
   const enEvents = data.getEvents.filter((ev: EventInterface) => ev.name?.en).slice(offset, limit)
+
   return (
-    <>
+    <Styled.Container>
       <Search />
       <Styled.Event>
         {enEvents.map((event: EventInterface) => (
           <Card key={event.id} event={event} />
         ))}
       </Styled.Event>
-    </>
+    </Styled.Container>
   )
 }

@@ -6,8 +6,8 @@ export default {
   component: Search,
 }
 
-export const SearchField = (): JSX.Element => <Search />
+export const searchField = (): JSX.Element => <Search />
 
-SearchField.story = {
-  name: 'Search Field',
+searchField.story = {
+  name: 'default',
 }

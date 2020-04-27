@@ -13,11 +13,13 @@ export function SVGSearch(): JSX.Element {
     </svg>
   )
 }
+
 export function Search(): JSX.Element {
   const [state, setState] = useState('')
   const [hasFocus, setHasFocus] = useState(false)
   const handleFocus = (): void => setHasFocus(!hasFocus)
   const handleChange = (e: ChangeEvent<HTMLInputElement>): void => setState(e.target.value)
+
   return (
     <Styled.Search outline={hasFocus ? '1px solid blue' : 'none'} onFocus={handleFocus} onBlur={handleFocus}>
       <SVGSearch />

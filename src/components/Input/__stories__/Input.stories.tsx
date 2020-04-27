@@ -7,8 +7,8 @@ export default {
   component: Input,
 }
 
-export const InputField = (): JSX.Element => <Input placeholder="Type here" handleChange={action('onChange')} />
+export const inputField = (): JSX.Element => <Input placeholder="Type here" handleChange={action('onChange')} />
 
-InputField.story = {
-  name: 'Input Field',
+inputField.story = {
+  name: 'default',
 }
