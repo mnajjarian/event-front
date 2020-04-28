@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-const Search = styled.div`
+const SearchField = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,4 +8,5 @@ const Search = styled.div`
   background-color: #ddd;
   outline: ${({ outline }: { outline: string }): string => (outline ? outline : 'none')};
 `
-export const Styled = { Search }
+const Search = styled.div``
+export const Styled = { Search, SearchField }

@@ -1,6 +1,9 @@
 import React, { useState, ChangeEvent } from 'react'
 import { Styled } from './style'
 import { Input } from '../Input/Input'
+import { GridStyle } from '../../styles/grid'
+import { Dropdown } from '../Dropdown/Dropdown'
+import { useQuery } from '@apollo/client'
 
 export function SVGSearch(): JSX.Element {
   return (
@@ -21,9 +24,16 @@ export function Search(): JSX.Element {
   const handleChange = (e: ChangeEvent<HTMLInputElement>): void => setState(e.target.value)
 
   return (
-    <Styled.Search outline={hasFocus ? '1px solid blue' : 'none'} onFocus={handleFocus} onBlur={handleFocus}>
-      <SVGSearch />
-      <Input placeholder="Search events" value={state} handleChange={handleChange} />
-    </Styled.Search>
+    <GridStyle.Container>
+      <GridStyle.Column xs="12" sm="8" md="4">
+        <Styled.Search>
+          <Styled.SearchField outline={hasFocus ? '1px solid blue' : 'none'} onFocus={handleFocus} onBlur={handleFocus}>
+            <SVGSearch />
+            <Input placeholder="Search events" value={state} handleChange={handleChange} />
+          </Styled.SearchField>
+          <Dropdown str={state} />
+        </Styled.Search>
+      </GridStyle.Column>
+    </GridStyle.Container>
   )
 }

@@ -2,16 +2,25 @@ import React from 'react'
 import { Styled } from './style'
 import { useHistory } from 'react-router-dom'
 import renderHTML from 'react-render-html'
-import db from '../../db.json'
 import { formatDate } from '../../helpers'
 import { GridStyle } from '../../styles/grid'
+import { useQuery } from '@apollo/client'
+import { GET_EVENT_BY_ID } from '../../graphql/queries'
+import { TagType } from '../../types'
 
 export function Event(): JSX.Element {
   const {
     location: { pathname },
   } = useHistory()
-
-  const { id, name, description, location, tags, event_dates } = db.data[0]
+  const { data, loading } = useQuery(GET_EVENT_BY_ID, {
+    variables: {
+      id: pathname.split('/')[2],
+    },
+  })
+  if (!data || loading) {
+    return <div></div>
+  }
+  const { name, description, location, tags, event_dates } = data.getEventById
 
   return (
     <GridStyle.Container>
@@ -23,10 +32,12 @@ export function Event(): JSX.Element {
           <GridStyle.Column xs="12" sm="6" md="6">
             <Styled.Info>
               <Styled.Title>{name.en}</Styled.Title>
-              <Styled.Summary>
-                {description.intro}
-                <Styled.More href="#more">+++</Styled.More>
-              </Styled.Summary>
+              {description.intro && (
+                <Styled.Summary>
+                  {description.intro}
+                  <Styled.More href="#more">+++</Styled.More>
+                </Styled.Summary>
+              )}
               <Styled.Date>
                 <Styled.DateGroup>
                   <Styled.Label>start date:</Styled.Label>
@@ -49,7 +60,7 @@ export function Event(): JSX.Element {
         <GridStyle.Row>
           <Styled.Title>tags</Styled.Title>
           <Styled.TagList>
-            {tags.map((tag) => (
+            {tags.map((tag: TagType) => (
               <Styled.Tag key={tag.id}>
                 <Styled.TagLink href="/#">{tag.name}</Styled.TagLink>
               </Styled.Tag>

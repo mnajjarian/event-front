@@ -1,4 +1,4 @@
-import { NameType, SourceType, LocationType, DescriptionType, EventDateType } from './types'
+import { NameType, SourceType, LocationType, DescriptionType, EventDateType, TagType } from './types'
 
 export interface EventInterface {
   __typename?: string
@@ -10,4 +10,5 @@ export interface EventInterface {
   location: LocationType
   description: DescriptionType
   event_dates: EventDateType
+  tags: TagType[]
 }

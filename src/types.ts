@@ -1,6 +1,6 @@
 export type NameType = {
-  en?: string
-  fi?: string
+  en: string
+  fi: string
   sv?: string
 }
 
@@ -44,4 +44,9 @@ export type EventDateType = {
 export type MoreDesType = {
   lang_code: string
   text: string
+}
+
+export type TagType = {
+  id: string
+  name: string
 }

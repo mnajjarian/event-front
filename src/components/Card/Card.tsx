@@ -18,7 +18,9 @@ export function Card(props: Props): JSX.Element {
             <Styled.Link href={`/e/${id}`} aria-label="link">
               <Styled.CardImage>
                 <Styled.ImageHolder />
-                {description.images && <Styled.Image src={description.images[0].url} alt="event" />}
+                {description.images && (
+                  <Styled.Image src={description.images[0] ? description.images[0].url : ''} alt="event" />
+                )}
               </Styled.CardImage>
             </Styled.Link>
           </Styled.CardMedia>

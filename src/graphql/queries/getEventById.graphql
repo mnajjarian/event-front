@@ -1,0 +1,29 @@
+query GetEventById($id: String!) {
+  getEventById(id: $id) {
+    id
+    name {
+      en
+      fi
+    }
+    description {
+      body
+      images {
+        url
+      }
+    }
+    location {
+      address {
+        street_address
+      }
+    }
+    modified_at
+    event_dates {
+      starting_day
+      ending_day
+    }
+    tags {
+      id
+      name
+    }
+  }
+}
