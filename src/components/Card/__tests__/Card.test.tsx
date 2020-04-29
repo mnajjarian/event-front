@@ -26,7 +26,9 @@ describe('Testing Card component', () => {
   it('Should render the event date correctly', () => {
     const { getByText } = setup()
     const eventDate = formatDate(event.event_dates.starting_day)
-    expect(getByText(eventDate)).toContainHTML('time')
-    expect(getByText(eventDate)).toHaveTextContent(eventDate)
+    if (eventDate) {
+      expect(getByText(eventDate)).toContainHTML('time')
+      expect(getByText(eventDate)).toHaveTextContent(eventDate)
+    }
   })
 })

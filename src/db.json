@@ -1,6 +1,6 @@
 {
   "meta": {
-    "count": "1"
+    "count": "2507"
   },
   "data": [
     {
@@ -77,6 +77,2565 @@
       "event_dates": {
         "starting_day": "2020-03-17T21:00:00.000Z",
         "ending_day": "2020-05-12T21:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afxq4co3au",
+      "name": {
+        "fi": "Volbeat",
+        "en": " Volbeat",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.volbeat.dk",
+      "modified_at": "2020-04-23T09:57:12.304Z",
+      "location": {
+        "lat": 60.186588287353516,
+        "lon": 24.97406768798828,
+        "address": {
+          "street_address": "Kaasutehtaankatu 1",
+          "postal_code": "00580",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Volbeat: Rewind, Replay, Rebound World Tour",
+        "body": "<p>Volbeat saapuu ensi kesäkuussa Suvilahteen Hartwall Arenan viime marraskuussa peruuntuneen keikan sijaan.</p><p>Tanskalainen Volbeat on niittänyt suosiota ainutlaatuisella yhdistelmällään klassista rock’n’rollia, heavy metallia ja rockabillyä, jossa vaikutteita voi kuulla Johnny Cashista Elvikseen ja Metallicasta Slayeriin.</p><p> Yhtyeen omintakeinen musiikillinen kaava on ollut myös valtava kaupallinen menestys ja taannut yhtyeelle myös kriitikoiden suosion. Volbeatin seitsemäs studioalbumi ”Rewind, Replay, Rebound” julkaistaan ensi elokuussa.<br> <br>Suvilahti<br>2.6. ovet avataan klo 17</p><p>Liput 89€ Ticketmasterista</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/volbeat-press-2000x1500-1.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1882",
+          "name": "rock music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        },
+        {
+          "id": "linkedevents:yso:p11185",
+          "name": "concerts"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-06-02T14:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:209742",
+      "name": {
+        "fi": "Etätapahtuma: Club del libro - Italiankielinen lukupiiri",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.302Z",
+      "location": {
+        "lat": 60.27720642089844,
+        "lon": 24.851394653320312,
+        "address": {
+          "street_address": "Laajaniityntie 3",
+          "postal_code": "01620",
+          "locality": "Vantaa"
+        }
+      },
+      "description": {
+        "intro": "Lukupiirissä luetaan ja keskustellaan italiaksi. Toivotamme italian kielen taitoiset lämpimästi tervetulleeksi mukaan!",
+        "body": "<p>Carissime lettrici e carissimi lettori,<br><br> La programmazione delle biblioteche di Vantaa è attiva in rete Vi invito a partecipare numerosi, fortunatamente possiamo contare su molti materiali gratuiti. L’evento è realizzato in collaborazione con il Circolo degli italiani in Finlandia.<br><br> Per l'appuntamento di martedì 5 maggio ore 16:00-17:00, parliamo di un racconto a scelta di Italo Calvino. La nostra amica Sandra suggerisce \"Avventura di due sposi\"<br><br><a href=\"http://cinquepassi.org/antologia/avventura-due-sposi-italo-calvino/?fbclid=IwAR0wzYJd1QE1lJuoGzU2_iAg4bumIVnhbJzA0T692HIp1P_mg6xdIUj-N60\">http://cinquepassi.org/antologia/avventura-due-sposi-italo-calvino/</a><br><a href=\"https://www.youtube.com/watch?v=VI98CmFePik&amp;fbclid=IwAR0Ujo18aVnxM0cRnWmrVxKg_0C2z7gto-4CXGgbP3HPFWqUgWilJt9sXgU\">https://www.youtube.com/watch?v=VI98CmFePik</a><br><br><a href=\"https://wisesociety.it/piaceri-e-societa/libri-gratis-in-quarantena-coronavirus/?fbclid=IwAR0nXGA-H9MBvc5944wIiKQuh4OIT_2zCPhDQ0N3W6LmV1Xtyh59m9YSXNU\">https://wisesociety.it/piaceri-e-societa/libri-gratis-in-quarantena-coronavirus/</a><br><br> Lukupiirissä luetaan ja keskustellaan italiaksi. Toivotamme italian kielen taitoiset lämpimästi tervetulleeksi mukaan!<br><br> Per partecipare basta collegarsi tramite questo link: <a href=\"https://us04web.zoom.us/j/695683503?fbclid=IwAR1LjaP278yGntj_8CO3iYWvBe9uU3BIKU3WEwKcPiXrEOJyHQz8HBpJufQ\">https://us04web.zoom.us/j/695683503</a><br><br> Per informazioni sull’uso di zoom:<br><br> Smartphone e tablet: <a href=\"https://www.youtube.com/watch?v=5B7SSW-zcGE&amp;fbclid=IwAR0EZFyk0g1ZECHj-jHJcju3BZ3FrwP0YDKsxxw0dfR3FFuZaUkF3BORC18\">https://www.youtube.com/watch?v=5B7SSW-zcGE</a><br><br> PC: <a href=\"https://www.youtube.com/watch?v=X7eUOwgVGuE&amp;fbclid=IwAR2ZIob0rHc6IN3fRbdF-mvLvC-WpNyYuOUkxO_kfKOqT2aws8QV-ZfaBKk\">https://www.youtube.com/watch?v=X7eUOwgVGuE</a><br><br> Foto: Lia Gasbarra</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{96A0D334-0AD6-429F-BAD1-3A9FDE9F4AAC}/82091",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:11727",
+          "name": "Book clubs"
+        },
+        {
+          "id": "linkedevents:helmet:10673",
+          "name": "Youth"
+        },
+        {
+          "id": "linkedevents:yso:p16486",
+          "name": "students"
+        },
+        {
+          "id": "linkedevents:helmet:10675",
+          "name": "Senior citizens"
+        },
+        {
+          "id": "linkedevents:helmet:11996",
+          "name": "Etätapahtumat"
+        },
+        {
+          "id": "linkedevents:yso:p6165",
+          "name": "migrants"
+        },
+        {
+          "id": "linkedevents:helmet:10672",
+          "name": "Immigrants"
+        },
+        {
+          "id": "linkedevents:helmet:11193",
+          "name": "Literature"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10691",
+          "name": "Vantaa"
+        },
+        {
+          "id": "linkedevents:helmet:10676",
+          "name": "Job seekers"
+        },
+        {
+          "id": "linkedevents:yso:p26626",
+          "name": "remote participation"
+        },
+        {
+          "id": "linkedevents:yso:p14004",
+          "name": "conversation"
+        },
+        {
+          "id": "linkedevents:yso:p556",
+          "name": "languages"
+        },
+        {
+          "id": "linkedevents:yso:p11617",
+          "name": "young people"
+        },
+        {
+          "id": "linkedevents:helmet:11733",
+          "name": "Language Cafés and discussion groups"
+        },
+        {
+          "id": "linkedevents:yso:p8113",
+          "name": "literature"
+        },
+        {
+          "id": "linkedevents:yso:p11406",
+          "name": "reading"
+        },
+        {
+          "id": "linkedevents:helmet:10593",
+          "name": "Associations"
+        },
+        {
+          "id": "linkedevents:yso:p2433",
+          "name": "senior citizens"
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        },
+        {
+          "id": "linkedevents:helmet:10674",
+          "name": "Students"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-05-05T13:00:00.000Z",
+        "ending_day": "2020-05-05T14:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:serie-2694082",
+      "name": {
+        "fi": "Päiväni Murmelina",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.309Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esitysoikeuksia valvoo Music Theatre International (Lontoo).</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-01T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890646",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.310Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-17T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890644",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.311Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-16T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890645",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.312Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-16T10:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890643",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.313Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-15T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12734239",
+      "name": {
+        "fi": "Päiväni Murmelina",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.316Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-12T15:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12972301",
+      "name": {
+        "fi": "Päiväni Murmelina",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.316Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-12T10:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12734238",
+      "name": {
+        "fi": "Päiväni Murmelina",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.317Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-11T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12972293",
+      "name": {
+        "fi": "Päiväni Murmelina",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.318Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-10T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890642",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.320Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Alkuperäinen tuotanto Disney Theatrical Productions</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-08T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890632",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.320Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-07T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12734237",
+      "name": {
+        "fi": "Päiväni Murmelina",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.321Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-05T15:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12734236",
+      "name": {
+        "fi": "Päiväni Murmelina",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.321Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-05T10:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12972292",
+      "name": {
+        "fi": "Päiväni Murmelina Ensi-Ilta",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.322Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-03T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12972291",
+      "name": {
+        "fi": "Päiväni Murmelina Ennakko",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.322Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-02T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12972290",
+      "name": {
+        "fi": "Päiväni Murmelina Ennakko",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2694082",
+      "modified_at": "2020-04-23T09:57:12.323Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Danny Rubin  Tim Minchin PÄIVÄNI MURMELINA Musikaalikomedia Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 27.",
+        "body": "<p>Danny Rubin  Tim Minchin<br><strong>PÄIVÄNI MURMELINA </strong><br><strong>Musikaalikomedia</strong></p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 27.8.2020</p><p><strong>Kuinka sinä viettäisit päivän jonka tietäisit toistuvan uudelleen ja uudelleen?</strong></p><p>Tv:stä tuttu, itsekeskeinen säämies Phil Connors lähetetään vastalauseistaan huolimatta syrjäiseen tuppukylään raportoimaan perinteisestä tapahtumasta, Murmelipäivästä. Jotakin tapahtuu, ja kauhukseen Phil tajuaa heräävänsä aina uudestaan samaan aamuun. Päivät toistuvat samanlaisina, samat rasittavat tyypit tulevat aina vastaan: yli-iloinen hotellivieras, kahvia tyrkyttävä emäntä, rahaa kerjäävä ukko, hanakka vakuutusmyyjä. Mutta onhan siinä myös puolensa, kun tietää tapahtumat ennalta  voi varastella vailla huolta kiinnijäämisestä, tietää mitkä iskurepliikit toimivat, voi elää leveästi ja hurjastella mielin määrin.</p><p>Loopissa eläminen saattaa hetken aikaa tuntua hauskalta, kun teoilla ei ole seurauksia, ja aamulla kaikki on ennallaan ja alkaa alusta. Miten tilanteesta voi hyötyä itse, tai voisiko siitä olla apua myös muille? Toistuvien päivien aikana Phil ehtii tutustua pikkukaupungin asukkaisiin ja erityisesti uuteen työkaveriinsa, tv-tuottaja Rita Hansoniin. Mitä kaikkea täytyykään tapahtua, ennen kuin Phil on valmis heräämään uuteen aamuun?</p><p>Oppiiko Phil arvostamaan elämää? Kykeneekö egoistinen työnarkomaani avartamaan elämänkatsomustaan, ja huomioimaan ympäröivän todellisuuden? Voiko jokainen päivä olla uusi ja elämisen arvoinen?</p><p>Kulttimaineeseen kohonnut ja maailman parhaimpien elokuvien joukkoon listattu Päiväni murmelina -elokuva (Groundhog Day) sai ensi-iltansa musikaalina vuonna 2016 Lontoossa, ja oli heti valtava menestys. Broadwaylle musikaali saapui seuraavana vuonna, ja nyt on vuorossa Helsingin valloitus. Ohjauksesta vastaa Suomen todellinen musikaalikomeetta Samuel Harjanne  mies Kaupunginteatterin edellisten megamenestysten Kinky Boots ja Pieni merenneito takaa.</p><p>Päiväni murmelina on musikaalikomedia, jonka haluat nähdä uudestaan ja uudestaan ja uudestaan ja uudestaan.</p><p>Esityskieli: suomi</p><p>Tekijät</p><p>Rooleissa: Lari Halme, Maria Lund, Chris Bewsher, Henrik Hammarberg, Riitta Havukainen, Heljä Heikkinen, Sofia Hilli, Mikko Jokinen, Annamaria Karhulahti, Kirsi Karlenius, Jyrki Kasper, Selma Kauppinen, Lauri Ketonen, Pertti Koivula, Paavo Kääriäinen, Kai Lähdesmäki, Martti Manninen, Matti Myllyaho, Unto Nuora, Arne Nylander, Sonja Pajunoja, Mikko Paloniemi, Tiina Peltonen, Pihla Pohjolainen, Antti L. J. Pääkkönen, Raili Raitala, Emilia Saarinen, Teemu Sytelä, Inka Tiitinen, AnttiTimonen, Sami Uotila, Tuomas Uusitalo, Mikko Vihma, Juha Antikainen</p><p>Tim Minchin<br>Musiikki ja laulujen sanat</p><p>Danny Rubin<br>Käsikirjoitus</p><p>Samuel Harjanne<br>Ohjaus</p><p>Reita Lounatvuori<br>Suomennos</p><p>Hanna Kaila<br>Suomennos</p><p>Peter Ahlqvist<br>Lavastus</p><p>Simon Hardwick<br>Koreografia</p><p>Eeva Kontu<br>Kapellimestari</p><p>Elina Kolehmainen<br>Puvut</p><p>Palle Palmé<br>Valosuunnittelu</p><p>Kai Poutanen<br>Äänisuunnittelu</p><p>Maija Sillanpää<br>Naamiointi</p><p>Henna Piirto<br>Dramaturgi<br><a href=\"https://hkt.fi/esitykset/paivani-murmelina/\"><br>Lisätietoja</a></p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2020/paivani-murmelina_222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-01T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890640",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.323Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-29T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890641",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.323Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-29T10:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890639",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.324Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-28T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890637",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.323Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-22T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890638",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.324Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-22T10:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890636",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.324Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-21T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890634",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.324Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-15T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890635",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.324Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esitysoikeuksia valvoo Music Theatre International (Europe)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-15T10:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890633",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.324Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-14T15:30:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "lippupiste:12890631",
+      "name": {
+        "fi": "Pieni Merenneito",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.lippu.fi/tickets.html?affiliate=adv&doc=erdetaila&fun=erdetail&erid=2359611",
+      "modified_at": "2020-04-23T09:57:12.325Z",
+      "location": {
+        "lat": 60.18167495727539,
+        "lon": 24.94272232055664,
+        "address": {
+          "street_address": "Eläintarhantie 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Helsingin Kaupunginteatteri -tuotanto Pieni merenneito Lumoava Disney-suurmusikaali Suuri näyttämö  Eläintarhantie 5 Ensi-ilta 29.",
+        "body": "<p>Helsingin Kaupunginteatteri -tuotanto<br><strong>Pieni merenneito</strong><br>Lumoava Disney-suurmusikaali</p><p>Suuri näyttämö  Eläintarhantie 5<br>Ensi-ilta 29.8.2019<br>Noin 2 t 25 min, sis. väliajan<br>Suositusikä kouluikäisestä ylöspäin<br>31  - 88 </p><p><strong>Syksyllä 2019 Kaupunginteatterin suuri näyttämö muuttui vedenalaiseksi taikamaailmaksi, kun lumoava Disney-suurmusikaali Pieni merenneito saapui Helsinkiin. Nuori merenneito Ariel haluaa jättää merellisen kuningaskunnan ja elää ihmisten maailmassa. Ariel rakastuu prinssiin ja tekee merinoidan kanssa sopimuksen voidakseen elää rakastettunsa kanssa.</strong></p><p>Pieni merenneito on kiehtovan ihana, ajaton rakkaustarina, jonka maagisen kaunis musiikki on hurmannut musikaaliyleisöt ympäri maailman ja ui nyt vihdoin katsojien sydämiin myös Helsingissä. Ohjaajana mies Kinky Boots -menestysmusikaalin takaa  Samuel Harjanne.</p><p>Alan Menkenin lumoava musiikki teki aikoinaan tästä elokuvasta yhden maailman isoimmista menestyksistä. Musikaalia varten hän on säveltänyt yli 10 uutta laulua, ja mukana ovat luonnollisesti hitit Part Of Your World ja Oscar-palkinnon voittanut Under the Sea.</p><p>Musiikki Alan Menken, laulujen sanat Howard Ashman &amp; Glenn Slater sekä käsikirjoitus Doug Wright. Perustuu H. C. Andersenin satuun ja Disney-elokuvaan (tuottajat Howard Ashman ja John Musker, käsikirjoitus ja ohjaus John Musker ja Ron Clements)</p><p>Esityskieli suomi</p><p>HUOM!<br>Esityksessä käytetään strobovaloja, jotka saattavat herkimmille aiheuttaa pahoinvointia!</p><p>Musikaali lienee komeinta teatteria, mitä Suomessa on konsanaan nähty. Helsingin Sanomat 30.8.2019  Mari Koppinen</p><p>Pieni merenneito on täydellinen satu Helsingin kaupunginteatteri tarjoaa nyt sellaisen sadun, että jos minulla olisi tähtiä annettavana, antaisin Pienelle merenneidolle viisi tähteä ja plussat päälle. Apu.fi blogit 30.8.2019  Liisa Talvitie</p><p>Tätä suurmusikaalia ei kannata jättää näkemättä! Kotiliesi 30.8.2019  Annina Pennonen</p><p>Ensi-illassa näkemäni spektaakkeli on kerrassaan lumoava. Ilta-Sanomat 30.8.2019  Katri Utula</p><p><a href=\"https://hkt.fi/esitykset/pieni-merenneito/\">Lisätietoja (katso mm. päiväkohtaiset esiintyjät)</a></p><p><strong>Joustoliput</strong><br>Joustolippu, +5 , oikeuttaa vaihtamaan saman teoksen lippuun esityksen myyntitilanne huomioiden. Lippu on vaihdettava viimeistään kahta viikkoa ennen alkuperäistä esitystä. Kalliimpaan hintaryhmään vaihdettaessa asiakas maksaa välisumman, edullisempaan hintaryhmään vaihdettaessa erotusta ei makseta. Joustavan lipun voi vaihtaa kuluitta siinä täyden palvelun myyntipisteessä, mistä se on alun perin ostettu, pois lukien R-kioskit sekä verkkokauppa. Lippupisteen myyntipisteestä, verkkokaupasta ja R-kioskista lipun ostaneet voivat vaihtaa lipun myös Helsingin Kaupunginteatterin lippumyymälässä, mutta tällöin peritään lipun vaihtamisen yhteydessä Lippupisteen palvelumaksu (1,50  3,50/lippu) uudestaan. Aiemmin maksettuja palvelumaksuja ei hyvitetä. Joustolippu on saatavilla perus-, ryhmä-, eläkeläis-, opiskelija- ja lastenlippuihin.</p>",
+        "images": [
+          {
+            "url": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2018/hktmerenneito222.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p11693",
+          "name": "musicals"
+        },
+        {
+          "id": "linkedevents:yso:p2625",
+          "name": "theatre"
+        },
+        {
+          "id": "linkedevents:yso:p6422",
+          "name": "music dramas"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-08-08T16:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "espoo:171429",
+      "name": {
+        "fi": "Lepuskin Retro & Vintage (PERUTTU)",
+        "en": "Lepuski Retro & Vintage (CANCELLED)",
+        "sv": "Lepuskin Retro & Vintage (INSTÄLLT)",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.325Z",
+      "location": {
+        "lat": 60.21745681762695,
+        "lon": 24.808441162109375,
+        "address": {
+          "street_address": "Soittoniekanaukio 1 A",
+          "postal_code": "02600",
+          "locality": "Espoo"
+        }
+      },
+      "description": {
+        "intro": "Tapahtuma on peruttu koronavirustilanteen vuoksi. Etsimme korvaavaa ajankohtaa ensi vuodelle josta ilmoitamme lisää myöhemmin.",
+        "body": "<p> <strong> <br> <br>\nLa 13.6. klo 10–15<br><br>\nHuom! Tapahtuma on peruttu koronavirustilanteen vuoksi.</strong> Etsimme korvaavaa ajankohtaa ensi vuodelle josta ilmoitamme lisää myöhemmin.<br> </p><p>***</p><p>Vanhojen tavaroiden, vintagen ja keräilyn ystäville suunnattu jo perinteeksi muodostunut riemukas tapahtuma järjestetään jo 3. kertaa!</p><p>Tule tekemään harvinaisia löytöjä ja nauttimaan ohjelmasta. Tiedustelut ja paikkavaraukset: <a href=\"https://www.espoo.fimailto:retrolepuski@gmail.com\">retrolepuski@gmail.com</a></p><p>Yhteistyössä Leppävaara-seuran kanssa</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://www.espoo.fi/download/noname/{580C9E0E-443F-4960-8D48-93603509BFE4}/114427",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p2108",
+          "name": "events"
+        },
+        {
+          "id": "linkedevents:yso:p372",
+          "name": "culture"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-06-13T07:00:00.000Z",
+        "ending_day": "2020-06-13T12:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "kulke:51333",
+      "name": {
+        "fi": "Elämää ikkunan takana – Virtuaalinen Vuotalo",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.vuotalo.fi/fi/tapahtumat/event/E1993965DB73F264DAC11EAB9500E2EE/Elamaa_ikkunan_takana",
+      "modified_at": "2020-04-23T09:57:12.325Z",
+      "location": {
+        "lat": 60.20867919921875,
+        "lon": 25.1439208984375,
+        "address": {
+          "street_address": "Mosaiikkitori 2",
+          "postal_code": "00980",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Kuvataiteilijat Juho Hellsten ja Janne Kärkkäinen ovat rakentaneet Vuotalon gallerian ikkunoihin mini-kokoisia satumaailmoja, joissa erilaiset leluhahmot elävät elämäänsä yllättävissä ympäristöissä.",
+        "body": "<p>Kuvataiteilijat Juho Hellsten ja Janne Kärkkäinen ovat rakentaneet Vuotalon gallerian ikkunoihin mini-kokoisia satumaailmoja, joissa erilaiset leluhahmot elävät elämäänsä yllättävissä ympäristöissä.</p><p>Ihmettele, ihastu ja inspiroidu! Rakenna oma minimaailma tai kirjoita tarina Vuotalon satumaailmoihin liittyen. Postaa tarina tai kuva Vuotalon Facebookiin tai Instagramiin #minielämäävuosaaressa</p>",
+        "images": [
+          {
+            "url": "http://www.vuotalo.fi/instancedata/prime_product_resurssivaraus/kulke/embeds/EventPic_670130.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:kulke:105",
+          "name": "Lastentapahtumat"
+        },
+        {
+          "id": "linkedevents:kulke:616",
+          "name": "Näkyy TV-sovelluksessa"
+        },
+        {
+          "id": "linkedevents:kulke:30",
+          "name": "Kuvataide"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:kulke:53",
+          "name": "Suomi"
+        },
+        {
+          "id": "linkedevents:kulke:45",
+          "name": "Vuotalo"
+        },
+        {
+          "id": "linkedevents:yso:p2739",
+          "name": "fine arts"
+        },
+        {
+          "id": "linkedevents:kulke:673",
+          "name": "Suomi (TV)"
+        }
+      ],
+      "event_dates": {
+        "starting_day": null,
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afytus6gcq",
+      "name": {
+        "fi": "Helsinki Pride 2020",
+        "en": "Helsinki Pride 2020",
+        "sv": "Helsinki Pride 2020",
+        "zh": "2020赫尔辛基骄傲节"
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.helsinkipride.fi",
+      "modified_at": "2020-04-23T09:57:12.325Z",
+      "location": {
+        "lat": 60.170833587646484,
+        "lon": 24.9375,
+        "address": {
+          "street_address": null,
+          "postal_code": null,
+          "locality": null
+        }
+      },
+      "description": {
+        "intro": "Helsinki Pride on Suomen suurin seksuaali- ja sukupuolivähemmistöjen kulttuuri- ja ihmisoikeustapahtuma.",
+        "body": "<p>Helsinki Pride on Suomen suurin seksuaali- ja sukupuolivähemmistöjen kulttuuri- ja ihmisoikeustapahtuma. Pride-viikko on tulvillaan sateenkaarevaa ohjelmaa: ajankohtaisiin aiheisiin pureutuvia luentoja ja keskustelutilaisuuksia, työpajoja, taidetta ja kulttuuria - sekä tietysti lukuisia juhlia, tansseja ja myöhään yöhön jatkuvia bileitä. </p><p>Tapahtumia löytyy kaiken ikäisille. Lauantaina Helsinki Pride huipentuu Senaatintorilta starttaavaan Pride-kulkueeseen, josta jatketaan Puistojuhlaan ja myöhemmin illalla päätösbileisiin.</p><p>Helsinki<br>7.-13.9.</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/Helsinki_Pride_Hki_Marketing_Jussi_Hellsten_helsinki365.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1828",
+          "name": "sexual minorities"
+        },
+        {
+          "id": "linkedevents:yso:p360",
+          "name": "cultural events"
+        },
+        {
+          "id": "linkedevents:matko:festivaali",
+          "name": "festivaali"
+        },
+        {
+          "id": "linkedevents:yso:p1304",
+          "name": "festivals"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-09-06T21:01:00.000Z",
+        "ending_day": "2020-09-13T20:59:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afylahs24a",
+      "name": {
+        "fi": "Peruttu: Elämyspuisto BauntsiPark",
+        "en": "Cancelled: Bouncy Park BauntsiPark",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://bauntsipark.fi/tapahtumat/",
+      "modified_at": "2020-04-23T09:57:12.325Z",
+      "location": {
+        "lat": 60.19047164916992,
+        "lon": 25.028518676757812,
+        "address": {
+          "street_address": "Paasivaarankatu 9",
+          "postal_code": "00810",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "BauntsiPark -elämyspuisto nousee Herttoniemenrannan liikuntapuiston hiekkakentälle ensi kesäkuussa.",
+        "body": "<p>BauntsiPark -elämyspuisto nousee Herttoniemenrannan liikuntapuiston hiekkakentälle ensi kesäkuussa.</p><p>Elämyspuisto sisältää 10 erilaista aktiviteettilinnaa lapsille.</p><p>Herttoniemenrannan liikuntapuisto, hiekkakenttä<br>13.6. klo 11-18</p><p>Sisäänpääsy 10€, alle 2-v. ja aikuiset ilmaiseksi</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/IMG-20190808-WA0009.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p916",
+          "name": "physical training"
+        },
+        {
+          "id": "linkedevents:yso:p2771",
+          "name": "outdoor recreation"
+        },
+        {
+          "id": "linkedevents:yso:p316",
+          "name": "playing (children's games)"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-06-13T08:00:00.000Z",
+        "ending_day": "2020-06-13T15:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afx25othfa",
+      "name": {
+        "fi": "Peruttu: Ropecon 2020",
+        "en": "Cancelled: Ropecon 2020",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.ropecon.fi",
+      "modified_at": "2020-04-23T09:57:12.325Z",
+      "location": {
+        "lat": 60.202999114990234,
+        "lon": 24.93581199645996,
+        "address": {
+          "street_address": "Messuaukio 1",
+          "postal_code": "00520",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Euroopan suurin vapaaehtoisvoimin järjestettävä roolipelitapahtuma Ropecon pidetään heinäkuussa Helsingissä. ",
+        "body": "<p>Euroopan suurin vapaaehtoisvoimin järjestettävä roolipelitapahtuma Ropecon pidetään heinäkuussa Helsingissä. </p><p>Paljon monimuotoista ohjelmaa sisältävä kolmipäiväinen pelifestivaali suunnitellaan ja toteutetaan alusta loppuun idealla roolipelaajilta roolipelaajille. </p><p>Tapahtuman taustaorganisaationa toimii Ropecon ry, jonka toiminnan tarkoitus on edistää ja kehittää suomalaista rooli-, kortti-, lauta- ja miniatyyripeliharrastusta.</p><p>Helsinki<br>24.-26.7.</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/Ropecon2018_kuva-Marko-Saar.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p19001",
+          "name": "live action role-playing games"
+        },
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:yso:p4295",
+          "name": "role-playing games"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-07-23T21:01:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:209928",
+      "name": {
+        "fi": "Etätapahtuma - Star Wars -päivä",
+        "en": "Virtual event: Star Wars Day",
+        "sv": "Evenemang på distans: Star Wars-dagen",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.325Z",
+      "location": {
+        "lat": 60.17396926879883,
+        "lon": 24.93815803527832,
+        "address": {
+          "street_address": "Töölönlahdenkatu 4",
+          "postal_code": "00100",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Supersuosittua Star Wars -päivää vietetään tänä vuonna virtuaalisesti! Luvassa on ohjelmaa niin lapsille kuin aikuisillekin, ja kaikista ohjelmanumeroista voi nauttia kotisohvalta käsin.",
+        "body": "<p>Toukokuun neljäntenä päivänä vietetään kansainvälistä Star Wars -päivää ympäri maailman. Helsingin kaupunginkirjasto on tänä vuonna mukana virtuaalisesti, ja luvassa on ohjelmaa niin lapsille kuin aikuisille!<br><br> Seuraavat ohjelmanumerot näytetään suorana lähetyksenä Helsinki-kanavalla osoitteessa <a href=\"http://www.helsinkikanava.fi/?fbclid=IwAR0bEoKi96IlzjrRAHqdoInAW3z5ZCyc3ziLH5kFWOco0T8wtOLWkVOrbB8\">www.helsinkikanava.fi.</a> Videoista tulee myös tallenteet katseltavaksi Helsinki-kanavalle jälkeenpäin.<br><br> Klo 11-11.15 Galaktinen mönjäpaja lapsille. Opi tekemään avaruusmönjää omasta keittiöstä löytyvillä tarvikkeilla Oodin kirjastolaisten opastuksella!<br><br> Klo 13-14 Luento: The Star Wars film that was never shot: Shadows of the Empire (englanniksi). Eduardo Serradilla Sanchis luennoi.<br><br> Klo 14-15 Luento: Musiikki Star Warsin maailmassa. Henri Pitkänen luennoi. Pitkänen on musiikkitieteen tohtorikoulutettava Helsingin yliopistossa. Hänen väitöskirjansa Alterity of Nonhuman Musicking in Star Wars: A Posthumanist Analysis of Anthropocentrism in Music valmistunee näillä näkymin keväällä 2022.<br><br> Klo 15-17 Pelin paikka LIVE:n Heikki pelaa PC:llä kokoelmastaan löytyviä klassisia Star Wars -aiheisia digitaalisia pelejä ja turisee niistä samalla. Tule mukaan tutustumaan SW-pelien maailmaan! Pelin paikka LIVE:n kolmoskauden tuplamittainen Star Wars-erikoislähetys.<br><br><br> Myös Oodin roolipelikerho on Star Wars –tunnelmissa. Lisätietoja osoitteessa <a href=\"https://www.helmet.fi/fi-FI/Tapahtumat_ja_vinkit/Tapahtumat/Etatapahtumat/Etatapahtuma_Star_Warspaivan_etapelit_Oo(209713)?fbclid=IwAR28Gq0rwUcaKrefcgZawEF6CBLCXISA_1I8dT7kilmEhAA1njS3tswvOo8\">https://www.helmet.fi/fi-FI/Tapahtumat_ja_vinkit/Tapahtumat/Etatapahtumat/Etatapahtuma_Star_Warspaivan_etapelit_Oo(209713)</a> ja Oodin oneshot-roolipelikerhon Facebook-ryhmässä <a href=\"https://www.facebook.com/groups/oodin.oneshot.roolipelikerho/\">https://www.facebook.com/groups/oodin.oneshot.roolipelikerho/</a><br><br><br> Lisäksi koko päivän:<br> Tietovisa aikuisille:<br> May the 4th Be With You 2020: Visainen triviapeli Tähtien sota -faneille. Testaa kuinka hyvin loppujen lopuksi tunnet elokuvat ja niiden taustat? Parhaat tietäjät palkitaan! Osallistu kisaan menemällä osoitteeseen play.seppo.io ja kirjaudu mukaan koodilla 6G6EA2.<br><br> Pelillinen tietovisa lapsille:<br> Lähde matkalle ympäri galaksin! Tässä pelissä pääs et tutustumaan galaksin eri planeettoihin ja niiden asukkaisiin. Kaikkien osallistujien kesken arvotaan palkinto. Osallistu peliin osoitteessa play.seppo.io ja kirjaudu mukaan koodilla DBD15G.<br> </p><p>Tapahtumakuva: James Pond / unsplash.com</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{F578E6F8-1B48-4CBA-AC95-A1F3D8410D38}/82181",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10594",
+          "name": "Pupils"
+        },
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10655",
+          "name": "Libraries"
+        },
+        {
+          "id": "linkedevents:helmet:11893",
+          "name": "Library Oodi"
+        },
+        {
+          "id": "linkedevents:helmet:11996",
+          "name": "Etätapahtumat"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:yso:p2787",
+          "name": "libraries"
+        },
+        {
+          "id": "linkedevents:yso:p16485",
+          "name": "pupils"
+        },
+        {
+          "id": "linkedevents:yso:p26626",
+          "name": "remote participation"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:10689",
+          "name": "Helsinki"
+        },
+        {
+          "id": "linkedevents:yso:p11617",
+          "name": "young people"
+        },
+        {
+          "id": "linkedevents:helmet:10654",
+          "name": "Events and tips"
+        },
+        {
+          "id": "linkedevents:helmet:11688",
+          "name": "Children "
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-05-04T06:00:00.000Z",
+        "ending_day": "2020-05-04T14:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afyb5oaxhy",
+      "name": {
+        "fi": "Maanantaituokio ",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.326Z",
+      "location": {
+        "lat": 60.22986602783203,
+        "lon": 25.032798767089844,
+        "address": {
+          "street_address": "Laivuri Petterin kuja 3",
+          "postal_code": "00790",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Leikkiä, laulua ja askartelutukioita alkaen  klo 10",
+        "body": "<p>Tuokio yhdessä ohjaajan kanssa pikkulapsiperheille sisätiloissa.</p>",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p8105",
+          "name": "playgrounds"
+        },
+        {
+          "id": "linkedevents:yso:p10727",
+          "name": "participation"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:yso:p316",
+          "name": "playing (children's games)"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-02-24T08:30:00.000Z",
+        "ending_day": "2020-05-18T09:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afyb5obc5i",
+      "name": {
+        "fi": "Maanantaituokio ",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.326Z",
+      "location": {
+        "lat": 60.22986602783203,
+        "lon": 25.032798767089844,
+        "address": {
+          "street_address": "Laivuri Petterin kuja 3",
+          "postal_code": "00790",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Leikkiä, laulua ja askartelutukioita alkaen  klo 10",
+        "body": "<p>Tuokio yhdessä ohjaajan kanssa pikkulapsiperheille sisätiloissa.</p>",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p8105",
+          "name": "playgrounds"
+        },
+        {
+          "id": "linkedevents:yso:p10727",
+          "name": "participation"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:yso:p316",
+          "name": "playing (children's games)"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-05-18T08:30:00.000Z",
+        "ending_day": "2020-05-18T09:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afyb5obcoi",
+      "name": {
+        "fi": "Maanantaituokio ",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.326Z",
+      "location": {
+        "lat": 60.22986602783203,
+        "lon": 25.032798767089844,
+        "address": {
+          "street_address": "Laivuri Petterin kuja 3",
+          "postal_code": "00790",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Leikkiä, laulua ja askartelutukioita alkaen  klo 10",
+        "body": "<p>Tuokio yhdessä ohjaajan kanssa pikkulapsiperheille sisätiloissa.</p>",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p8105",
+          "name": "playgrounds"
+        },
+        {
+          "id": "linkedevents:yso:p10727",
+          "name": "participation"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:yso:p316",
+          "name": "playing (children's games)"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-05-11T08:30:00.000Z",
+        "ending_day": "2020-05-11T09:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afyb5obbyy",
+      "name": {
+        "fi": "Maanantaituokio ",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.331Z",
+      "location": {
+        "lat": 60.22986602783203,
+        "lon": 25.032798767089844,
+        "address": {
+          "street_address": "Laivuri Petterin kuja 3",
+          "postal_code": "00790",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Leikkiä, laulua ja askartelutukioita alkaen  klo 10",
+        "body": "<p>Tuokio yhdessä ohjaajan kanssa pikkulapsiperheille sisätiloissa.</p>",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p8105",
+          "name": "playgrounds"
+        },
+        {
+          "id": "linkedevents:yso:p10727",
+          "name": "participation"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:yso:p316",
+          "name": "playing (children's games)"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-05-04T08:30:00.000Z",
+        "ending_day": "2020-05-04T09:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afyb5obbde",
+      "name": {
+        "fi": "Maanantaituokio ",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2020-04-23T09:57:12.326Z",
+      "location": {
+        "lat": 60.22986602783203,
+        "lon": 25.032798767089844,
+        "address": {
+          "street_address": "Laivuri Petterin kuja 3",
+          "postal_code": "00790",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Leikkiä, laulua ja askartelutukioita alkaen  klo 10",
+        "body": "<p>Tuokio yhdessä ohjaajan kanssa pikkulapsiperheille sisätiloissa.</p>",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p8105",
+          "name": "playgrounds"
+        },
+        {
+          "id": "linkedevents:yso:p10727",
+          "name": "participation"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:yso:p316",
+          "name": "playing (children's games)"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-04-27T08:30:00.000Z",
+        "ending_day": "2020-04-27T09:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afyeff5nyq",
+      "name": {
+        "fi": "Peruttu: 5Rytmiä® : Luovan tanssin tiistai",
+        "en": "Cancelled: 5Rhythms®: Creative Dance Tuesday",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://valontaival.com/tunnit-2020/",
+      "modified_at": "2020-04-23T09:57:12.326Z",
+      "location": {
+        "lat": 60.18145751953125,
+        "lon": 24.959291458129883,
+        "address": {
+          "street_address": "Haapaniemenkatu 6",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "5Rytmiä® on kokonaisvaltainen, matalan kynnyksen luovan liikkeen menetelmä, joka sopii kaikille iästä, kehotyypistä, sukupuolesta",
+        "body": "<p>5Rytmiä® on kokonaisvaltainen, matalan kynnyksen luovan liikkeen menetelmä, joka sopii kaikille iästä, kehotyypistä, sukupuolesta, liikunnallisesta taustasta tai rytmitajusta riippumatta. </p><p>Koreografiaa ei ole, vaan liike kumpuaa jokaisen omasta ainutlaatuisesta ilmaisusta. Tätä ilmaisua tukee selkeä rakenne: viisi eri “rytmiä” eli liikelaatua johdattelevat liikkeen monipuoliseen tutkimiseen. </p><p>Strukturoitu vapaus mahdollistaa uudenlaiset liikkeet, uudet ulottuvuudet ja antaa suuntaa keholliselle mielikuvitukselle.</p><p>Teatterikorkeakoulu<br>7.1.-5.5. ti klo 18-20; 24.3.-7.4. tunnit on peruutettu</p><p>Osallistumismaksu 20€</p><p>Aiempi kokemus tai tanssitausta ei ole tarpeen</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/80389866_2839860552712242_8.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        },
+        {
+          "id": "linkedevents:yso:p9270",
+          "name": "courses (societal objects)"
+        },
+        {
+          "id": "linkedevents:yso:p1278",
+          "name": "dance (performing arts)"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2020-02-25T16:00:00.000Z",
+        "ending_day": "2020-05-05T17:00:00.000Z",
         "additional_description": null
       }
     }

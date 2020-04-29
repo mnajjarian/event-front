@@ -17,6 +17,7 @@ export function Event(): JSX.Element {
       id: pathname.split('/')[2],
     },
   })
+  console.log(data)
   if (!data || loading) {
     return <div></div>
   }

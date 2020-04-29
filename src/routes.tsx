@@ -8,7 +8,7 @@ export function Routes(): JSX.Element {
   return (
     <Switch>
       <Route path="/e/:id" component={Event} />
-      <Route path="/" component={(): JSX.Element => <Home offset={0} limit={10} />} />
+      <Route path="/" component={(): JSX.Element => <Home />} />
     </Switch>
   )
 }

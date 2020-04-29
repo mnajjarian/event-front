@@ -1,7 +1,8 @@
 export type NameType = {
-  en: string
+  en: string | null
   fi: string
-  sv?: string
+  sv: string | null
+  zh: string | null
 }
 
 export type SourceType = {}
@@ -13,9 +14,9 @@ export type LocationType = {
 }
 
 export type AddressType = {
-  street_address: string
-  postal_code: string
-  locality: string
+  street_address: string | null
+  postal_code: string | null
+  locality: string | null
 }
 
 export type DescriptionType = {
@@ -25,9 +26,9 @@ export type DescriptionType = {
 }
 
 export type ImageType = {
-  url?: string
-  copyright_holder?: string
-  license_type?: LicenseType
+  url: string | null
+  copyright_holder: string | null
+  license_type: LicenseType | null
 }
 
 export type LicenseType = {
@@ -36,9 +37,9 @@ export type LicenseType = {
 }
 
 export type EventDateType = {
-  starting_day: string
-  ending_day?: string
-  additional_description?: MoreDesType | null
+  starting_day: string | null
+  ending_day: string | null
+  additional_description: MoreDesType | null
 }
 
 export type MoreDesType = {

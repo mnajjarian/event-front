@@ -1,10 +1,9 @@
 import styled from 'styled-components'
 
-const Event = styled.div`
-  display: flex;
-  flex-wrap: wrap;
+const Home = styled.div`
   height: 100%;
   width: 100%;
+  padding-top: 5em;
 `
-const Container = styled.div``
-export const Styled = { Container, Event }
+
+export const Styled = { Home }

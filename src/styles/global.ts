@@ -9,6 +9,11 @@ export const GlobalStyles = createGlobalStyle`
 html {
     scroll-behavior: smooth;
 }
+body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+}
 p {
     margin-top: 0;
 }
@@ -17,7 +22,9 @@ a {
     color: #3659e3;
     background-color: transparent;
 }
-
+ h1, h1, h2, h3, h4, h5 {
+   text-transform: capitalize;
+ }
 
 /* For desktop: */
 .col-1 {width: 8.33%;}

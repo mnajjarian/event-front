@@ -5,7 +5,8 @@ import { SchemaLink } from 'apollo-link-schema'
 import { printSchema, GraphQLSchema, GraphQLObjectType } from 'graphql'
 import { GraphQLEvent } from '../types/event'
 import { eventQueries } from '../queries/index'
-
+import db from '../../db.json'
+import { EventInterface } from '../../interfaces'
 export function ApolloMockProvider({ children }: { children: ReactNode }): JSX.Element {
   const typeDefs = printSchema(
     new GraphQLSchema({
@@ -18,7 +19,14 @@ export function ApolloMockProvider({ children }: { children: ReactNode }): JSX.E
   )
   const schema = makeExecutableSchema({ typeDefs })
   const mocks = {
-    Query: (): boolean => true,
+    Query: () => {
+      return {
+        getEvents: (): EventInterface[] => db.data,
+        getEventBiId: (id: string): EventInterface => {
+          return db.data.filter((event: EventInterface) => event.id === id)[0]
+        },
+      }
+    },
     Mutation: (): boolean => true,
   }
 

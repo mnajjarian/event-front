@@ -1,7 +1,6 @@
 import React from 'react'
 import { GridStyle } from '../../styles/grid'
 import { Styled } from './style'
-import db from '../../db.json'
 import { useQuery } from '@apollo/client'
 import { GET_EVENTS } from '../../graphql/queries'
 import { EventInterface } from '../../interfaces'
@@ -15,17 +14,17 @@ export function Dropdown(props: Props): JSX.Element {
     return <div></div>
   }
   const { str } = props
-  const events = data.getEvents.filter((event: EventInterface) =>
-    event.name?.fi.toLowerCase().includes(str.toLowerCase()),
+  const events: EventInterface[] = data.getEvents.filter((event: EventInterface) =>
+    event.name.fi.toLowerCase().includes(str.toLowerCase()),
   )
 
   return (
     <GridStyle.Row>
-      {str.length > 2 && (
+      {str.length > 2 && events.length > 0 && (
         <Styled.Dropdown>
           {events.map((event: EventInterface) => (
             <Styled.Tab key={event.id} href={`/e/${event.id}`}>
-              {event.name.en}
+              {event.name.fi}
             </Styled.Tab>
           ))}
         </Styled.Dropdown>

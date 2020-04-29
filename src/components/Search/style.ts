@@ -6,7 +6,10 @@ const SearchField = styled.div`
   align-items: center;
   padding: 0.5em 0.7em;
   background-color: #ddd;
+  z-index: 2;
   outline: ${({ outline }: { outline: string }): string => (outline ? outline : 'none')};
 `
-const Search = styled.div``
+const Search = styled.div`
+  position: relative;
+`
 export const Styled = { Search, SearchField }

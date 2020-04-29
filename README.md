@@ -3,3 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Events App Client
 
 React application for [open helsinki API](http://open-api.myhelsinki.fi/).
+
+##Install

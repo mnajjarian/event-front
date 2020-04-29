@@ -24,16 +24,12 @@ export function Search(): JSX.Element {
   const handleChange = (e: ChangeEvent<HTMLInputElement>): void => setState(e.target.value)
 
   return (
-    <GridStyle.Container>
-      <GridStyle.Column xs="12" sm="8" md="4">
-        <Styled.Search>
-          <Styled.SearchField outline={hasFocus ? '1px solid blue' : 'none'} onFocus={handleFocus} onBlur={handleFocus}>
-            <SVGSearch />
-            <Input placeholder="Search events" value={state} handleChange={handleChange} />
-          </Styled.SearchField>
-          <Dropdown str={state} />
-        </Styled.Search>
-      </GridStyle.Column>
-    </GridStyle.Container>
+    <Styled.Search>
+      <Styled.SearchField outline={hasFocus ? '1px solid blue' : 'none'} onFocus={handleFocus} onBlur={handleFocus}>
+        <SVGSearch />
+        <Input placeholder="Search events" value={state} handleChange={handleChange} />
+      </Styled.SearchField>
+      <Dropdown str={state} />
+    </Styled.Search>
   )
 }

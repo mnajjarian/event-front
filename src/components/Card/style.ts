@@ -1,23 +1,15 @@
 import styled from 'styled-components'
 
 const CardWrapper = styled.div`
-  width: 33.33333%;
+  width: 100%;
+  height: 270px;
   font-size: 0.9em;
   line-height: 1.5em;
   font-weight: 400;
   display: inline-block;
   vertical-align: top;
   overflow: visible;
-  padding: 1em;
-  @media (min-width: 1272px) {
-    width: 25%;
-  }
-  @media (min-width: 792px) {
-    width: 33.33333%;
-  }
-  @media screen and (min-width: 660px) {
-    padding-left: 0;
-  }
+  padding: 0.5em;
 `
 const Card = styled.div`
   height: 100%;
@@ -89,22 +81,13 @@ const CardBody = styled.div`
   position: relative;
   overflow: hidden;
   word-break: break-word;
-  padding: 1.5em 1em;
+  padding: 0.5em;
   text-rendering: optimizeLegibility;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-pack: start;
   -webkit-box-flex: 1;
   flex: 1 0 auto;
-  @media screen and (min-width: 1152px) {
-    padding: 1em;
-  }
-  @media screen and (min-width: 960px) {
-    padding: 1em 0.8em;
-  }
-  @media screen and (min-width: 792px) {
-    padding: 1em 0.8em;
-  }
 `
 const CardBodyContent = styled.div`
   flex: 1 1 auto;
@@ -120,18 +103,14 @@ const CardTime = styled.time`
 `
 
 const CardTitle = styled.h3`
+  margin: 0;
+  padding: 0.25em 0;
   color: #39364f;
   font-weight: 700;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
   overflow: hidden;
-  @media (min-width: 960px) {
-    font-size: 1.125em;
-    line-height: 1.5em;
-    letter-spacing: 0.25px;
-    margin-right: -0.25px;
-  }
 `
 export const Styled = {
   CardWrapper,

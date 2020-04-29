@@ -34,6 +34,10 @@ const Column = styled.div`
   }
   @media only screen and (min-width: 992px) {
     width: ${(props: Props): string => (props.md ? getWidthString(props.md) : '')};
+    font-size: 1.125em;
+    line-height: 1.5em;
+    letter-spacing: 0.25px;
+    margin-right: -0.25px;
   }
   @media only screen and (min-width: 1200px) {
     width: ${(props: Props): string => (props.lg ? getWidthString(props.lg) : '')};

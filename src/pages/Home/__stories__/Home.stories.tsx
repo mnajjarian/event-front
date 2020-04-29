@@ -2,6 +2,7 @@ import React from 'react'
 import { Home } from '../Home'
 import { ApolloProvider } from '@apollo/client'
 import Client from '../../../ApolloClient'
+import { ApolloMockProvider } from '../../../graphql/ApolloMockProvider/ApolloMockProvider'
 
 export default {
   title: 'Home page',
@@ -10,9 +11,9 @@ export default {
 
 export const homePage = (): JSX.Element => {
   return (
-    <ApolloProvider client={Client}>
+    <ApolloMockProvider>
       <Home offset={0} limit={10} />
-    </ApolloProvider>
+    </ApolloMockProvider>
   )
 }
 
